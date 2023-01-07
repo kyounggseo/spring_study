@@ -29,3 +29,7 @@
 :round_pushpin: 데이터 저장소는 RDB, NoSQL 등등 다양한 저장소를 고민중인 상황으로 가정 <br/>
 :round_pushpin: 개발을 진행하기 위해서 초기 개발 단계에서는 구현체로 가벼운 메모리 기반의 데이터 저장소 사용 <br/>
 
+✏️ <결과>
+DB - H2
+![image](https://user-images.githubusercontent.com/102573192/211134316-b7e7ffad-d017-494f-9e5f-9d98852aca42.png)
+
