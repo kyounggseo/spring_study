@@ -1,6 +1,6 @@
-# 회원 관리 - 백엔드 개발 _ study
+# 회원 관리 - BackEnd 개발 _ study
 
-:book: 회원 관리 - 백엔드 개발 <br/>
+:book: 회원 관리 - BackEnd 개발 <br/>
 
 :one: 비즈니스 요구사항 정리 <br/>
 :two: 회원 도메인과 리포지토리 만들기 <br/>
@@ -30,7 +30,7 @@
 :round_pushpin: 개발을 진행하기 위해서 초기 개발 단계에서는 구현체로 가벼운 메모리 기반의 데이터 저장소 사용 <br/>
 
 ✏️ <결과>  <br/>
-DB - H2  <br/>
+DB : H2 사용 -> 추후 MySQL 변경 <br/>
 
 ![image](https://user-images.githubusercontent.com/102573192/211134316-b7e7ffad-d017-494f-9e5f-9d98852aca42.png)  <br/>
 
